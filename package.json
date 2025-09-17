@@ -4,7 +4,7 @@
   "description": "RoboStyler backend service",
   "main": "index.js",
   "scripts": {
-   "start": "node index.js"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
